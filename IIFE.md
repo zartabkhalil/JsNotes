@@ -36,3 +36,25 @@
     alert("I am an IIFE, too!");
 })();
 ```
+
+## 3: Return value from IIFE 
+
+
+
+```bash
+var num =(function(){
+    return 1
+}())
+```
+
+
+## 3:  IIFE with arguments
+
+
+```bash
+
+var num =(function(a,b){
+    return a+b
+}(7,8))
+```
+
