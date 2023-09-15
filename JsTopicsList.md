@@ -6,4 +6,5 @@
 >
 >**Topic 3 **: the difference between JavaScript modules, module formats, module loaders and module bundlers.
 >
+>**Topic 4 **: the difference between reduce,map and filter.
 
