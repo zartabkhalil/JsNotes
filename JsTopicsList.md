@@ -11,3 +11,4 @@
 >**Topic 5  📜**:   Why you should replace forEach with map and filter in
 > JavaScript 
 
+>**Topic 5  📜**:   What is pure Function 
